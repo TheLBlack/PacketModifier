@@ -1,0 +1,6 @@
+name: SpartanAddonByTheLBlack
+author: TheLBlack
+version: 1.0
+main: mc.thelblack.addon.Main
+api-version: 1.13
+depend: [ProtocolLib]
